@@ -64,11 +64,13 @@ public class SvUsuarios extends HttpServlet {
         String nombre=request.getParameter("nombre");
         String apellido=request.getParameter("apellido");
         String telefono=request.getParameter("telefono");
+        String direccion=request.getParameter("direccion");
         
         System.out.println("DNI:"+dni);
         System.out.println("Nombres:"+nombre);
         System.out.println("Apellidos:"+apellido);
         System.out.println("Telefono:"+telefono);
+        System.out.println("direccion:"+direccion);
     }
 
     /**

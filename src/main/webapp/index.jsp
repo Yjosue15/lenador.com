@@ -14,6 +14,7 @@
             <p> <label> Nombres: </label> <input type="text" name="nombre"</p>
             <p> <label> Apellidos: </label> <input type="text" name="apellido"</p>
             <p> <label> Telefono: </label> <input type="text" name="telefono"</p>
+            <p> <label> Direccion: </label> <input type="text" name="direccion"</p>
             <button type="submint" Enviar</button>
 
 
